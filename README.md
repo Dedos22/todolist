@@ -1,2 +1,2 @@
 # todolist
-<img src="EKRANALINTISI.JPG">
+<img src="Ekran Alıntısı.JPG">
